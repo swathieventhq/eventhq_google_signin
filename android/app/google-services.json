@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816681878329",
+    "project_id": "eventhq--signin",
+    "storage_bucket": "eventhq--signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816681878329:android:9f2eecb0de83ee819f5ee8",
+        "android_client_info": {
+          "package_name": "com.example.eventhq_google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816681878329-eoqk4ts8c8cfrg010lcdnv5fo78ab8gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventhq_google_signin",
+            "certificate_hash": "7d175e4de34f9c1671e0ef46af2648105137df45"
+          }
+        },
+        {
+          "client_id": "816681878329-t41n5gddlkcfq56oagh9e4tof0jntj1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtP2ItKcDC-ocVAMRioVsWjQ7ufOJfB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816681878329-t41n5gddlkcfq56oagh9e4tof0jntj1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
